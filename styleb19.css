@@ -11,10 +11,16 @@ html {
     background-color: #f3eee6;
 }
 
+#most {
+    width: 100vw;
+    /* padding: 2% 2% 2% 10%; */
+    overflow: hidden;
+
+}
 #main {
     width: 100vw;
     padding: 2% 2% 2% 10%;
-    overflow: hidden;
+    /* overflow: hidden; */
 
 }
 #imgs{
